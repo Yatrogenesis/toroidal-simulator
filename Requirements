@@ -1,4 +1,18 @@
-numpy
-scipy
-matplotlib
-pandas
+
+## Requisitos
+
+- Python 3.6 o superior
+- Las siguientes dependencias:
+  - numpy
+  - scipy
+  - matplotlib
+  - pandas
+
+## Instalación
+
+Clona el repositorio:
+
+```bash
+git clone https://github.com/tu_usuario/toroidal-simulator.git
+cd toroidal-simulator
+
