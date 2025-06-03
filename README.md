@@ -7,7 +7,7 @@ Simulador de Sistemas Toroidales Coherentes con Acoplamiento Métrico-Electromag
 Este repositorio contiene el código fuente para el simulador basado en el artículo *"Falsifiable Metric-Electromagnetic Coupling in Coherent Toroidal Systems"*. El simulador permite calcular y visualizar la geometría pseudotoroidal, distribuciones de campos electromagnéticos, modos acústicos y dinámica de fluidos (MHD) en un sistema toroidal con acoplamiento métrico-electromagnético.
 
 ## Estructura del Repositorio
-cambiar estructura
+
 toroidal-simulator/ 
           ├── README.md # Documentación y guía de uso 
           ├── LICENSE # Licencia del proyecto (MIT) 
